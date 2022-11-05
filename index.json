@@ -1,0 +1,16 @@
+{
+  "index": [
+    {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "json": "links_macbeth",
+      "keywords": ""
+    },
+    {
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "json": "links_hamlet",
+      "keywords": ""
+    }
+  ]
+}
